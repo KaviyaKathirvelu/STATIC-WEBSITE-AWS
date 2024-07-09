@@ -1,1 +1,1 @@
-# STATIC-WEBSITE-AWS
+# static-website-aws
